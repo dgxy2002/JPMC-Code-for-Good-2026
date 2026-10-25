@@ -1,0 +1,152 @@
+[
+  {
+    "id": "145a257a-ee41-52fa-9a5a-0d879ab12c14",
+    "name": "Student 01",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "c12dd50e-7a6a-5159-aadc-79c0d4b2cc60",
+    "name": "Student 02",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "6c664f2d-e2b9-5837-ac34-a3ccd1279826",
+    "name": "Student 03",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "e7c1b182-cc12-5888-adf8-0487e015680b",
+    "name": "Student 04",
+    "required_seniority": "SENIOR"
+  },
+  {
+    "id": "fc605bf2-3a88-5c44-bb06-7f170ccc23a8",
+    "name": "Student 05",
+    "required_seniority": "ANY"
+  },
+  {
+    "id": "438c77ac-7c97-58a9-b61e-7bef0bbd989a",
+    "name": "Student 06",
+    "required_seniority": "ANY"
+  },
+  {
+    "id": "67ba9aee-c985-5452-b576-daa252f3578b",
+    "name": "Student 07",
+    "required_seniority": "SENIOR"
+  },
+  {
+    "id": "7688b20e-d473-50b3-89ea-d2d3595e9e23",
+    "name": "Student 08",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "edfc1fc0-7380-50c2-9343-6c7e7767e070",
+    "name": "Student 09",
+    "required_seniority": "ANY"
+  },
+  {
+    "id": "b5ab6722-1e7f-5b70-b0b8-40e44011fd4f",
+    "name": "Student 10",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "9172a17e-0055-5c36-b729-311ae4c7d4b5",
+    "name": "Student 11",
+    "required_seniority": "ANY"
+  },
+  {
+    "id": "8bcea537-e4f0-5606-b2a3-c3c554141202",
+    "name": "Student 12",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "598b30f7-1007-5dc4-a5ea-400a82673adc",
+    "name": "Student 13",
+    "required_seniority": "ANY"
+  },
+  {
+    "id": "6aef473f-131b-546d-9b7c-7fc1ed6b4e01",
+    "name": "Student 14",
+    "required_seniority": "ANY"
+  },
+  {
+    "id": "9defd8ac-f8bc-5e9c-a768-dcc1619ccbf5",
+    "name": "Student 15",
+    "required_seniority": "ANY"
+  },
+  {
+    "id": "b3f97b01-86f9-52cc-b8cc-d04598bb09b7",
+    "name": "Student 16",
+    "required_seniority": "ANY"
+  },
+  {
+    "id": "8163fe6a-51c0-566a-913e-364edcaad916",
+    "name": "Student 17",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "383ad0cd-9ff5-5238-8518-730f0b695229",
+    "name": "Student 18",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "dca9793b-61d9-5694-b9a4-04a26c4c7aa6",
+    "name": "Student 19",
+    "required_seniority": "SENIOR"
+  },
+  {
+    "id": "ea1b4986-d986-5a81-a4b4-5e9e6bbbd6f4",
+    "name": "Student 20",
+    "required_seniority": "ANY"
+  },
+  {
+    "id": "dfb3ff64-e109-5de1-bab0-13ee6f3d96da",
+    "name": "Student 21",
+    "required_seniority": "SENIOR"
+  },
+  {
+    "id": "10eff19f-fd62-53f8-8f4f-99ff31716f0f",
+    "name": "Student 22",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "23586bf1-320c-5257-aca9-d4c33ef9bfb5",
+    "name": "Student 23",
+    "required_seniority": "SENIOR"
+  },
+  {
+    "id": "a59b9ea4-14cb-5ad4-874a-807ba055aa5c",
+    "name": "Student 24",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "f03bbee4-8063-5656-82d9-8b3978b40d51",
+    "name": "Student 25",
+    "required_seniority": "SENIOR"
+  },
+  {
+    "id": "8a260e0f-22b5-5725-8cba-a4011028518f",
+    "name": "Student 26",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "bd89f957-116d-512e-95fb-9c37d3368f1b",
+    "name": "Student 27",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "9b6e4f24-7973-5f00-a1ec-d94e5d5a6655",
+    "name": "Student 28",
+    "required_seniority": "JUNIOR"
+  },
+  {
+    "id": "340287b7-4810-551f-be88-db9878924d9c",
+    "name": "Student 29",
+    "required_seniority": "SENIOR"
+  },
+  {
+    "id": "624e203d-f72c-5da2-9288-40ae11cb67b5",
+    "name": "Student 30",
+    "required_seniority": "JUNIOR"
+  }
+]

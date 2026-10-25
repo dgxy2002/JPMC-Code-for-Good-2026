@@ -1,0 +1,9 @@
+import { Redirect, Stack } from 'expo-router';
+import { useAuth } from '../../context/AuthContext';
+
+export default function AdminLayout() {
+  const { user } = useAuth();
+  if (!user) return <Redirect href="/login" />;
+  if (user.role !== 'admin') return <Redirect href="/therapist" />;
+  return <Stack screenOptions={{ headerShown: false }} />;
+}

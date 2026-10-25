@@ -1,0 +1,472 @@
+[
+  {
+    "id": "b6e551aa-a18d-53db-b355-01821bff7e47",
+    "student_id": "23586bf1-320c-5257-aca9-d4c33ef9bfb5",
+    "original_therapist_id": "56c1f523-27ba-54db-8271-d34924120d21",
+    "assigned_therapist_id": "9d192368-223f-5473-b054-800ffb1b846d",
+    "date": "2026-10-01",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "3d0b9653-b5a7-56f1-b78a-28940c9089e5",
+    "student_id": "67ba9aee-c985-5452-b576-daa252f3578b",
+    "original_therapist_id": "56c1f523-27ba-54db-8271-d34924120d21",
+    "assigned_therapist_id": "56c1f523-27ba-54db-8271-d34924120d21",
+    "date": "2026-10-02",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "af955c15-2488-58fd-b4b5-e1369a745147",
+    "student_id": "438c77ac-7c97-58a9-b61e-7bef0bbd989a",
+    "original_therapist_id": "810bdd70-e4a4-5e78-a754-536119e1a21f",
+    "assigned_therapist_id": "810bdd70-e4a4-5e78-a754-536119e1a21f",
+    "date": "2026-10-07",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "7ce8b7c1-fb9c-5b23-a555-33ed0b9d0fb7",
+    "student_id": "ea1b4986-d986-5a81-a4b4-5e9e6bbbd6f4",
+    "original_therapist_id": "810bdd70-e4a4-5e78-a754-536119e1a21f",
+    "assigned_therapist_id": "810bdd70-e4a4-5e78-a754-536119e1a21f",
+    "date": "2026-10-21",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "7e743fcd-2af7-521b-96c8-fe3c26d0c9bc",
+    "student_id": "edfc1fc0-7380-50c2-9343-6c7e7767e070",
+    "original_therapist_id": "4d2405c0-f6e4-5742-b983-e56c2ddc29a3",
+    "assigned_therapist_id": "4d2405c0-f6e4-5742-b983-e56c2ddc29a3",
+    "date": "2026-10-03",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "6abaa05d-73cd-565d-8490-4a91555f938d",
+    "student_id": "598b30f7-1007-5dc4-a5ea-400a82673adc",
+    "original_therapist_id": "4d2405c0-f6e4-5742-b983-e56c2ddc29a3",
+    "assigned_therapist_id": "4d2405c0-f6e4-5742-b983-e56c2ddc29a3",
+    "date": "2026-10-04",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "a14c03b8-bc22-54cf-80fd-05e13721e2cb",
+    "student_id": "dca9793b-61d9-5694-b9a4-04a26c4c7aa6",
+    "original_therapist_id": "f76b034e-4063-5be7-a004-f1fed0421fb8",
+    "assigned_therapist_id": "7aa49a86-371a-5ead-aaaf-cd9eef92e3d0",
+    "date": "2026-10-05",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "ce4370a4-fa3b-54a3-b62f-c0771eb899b1",
+    "student_id": "23586bf1-320c-5257-aca9-d4c33ef9bfb5",
+    "original_therapist_id": "f76b034e-4063-5be7-a004-f1fed0421fb8",
+    "assigned_therapist_id": "7aa49a86-371a-5ead-aaaf-cd9eef92e3d0",
+    "date": "2026-10-06",
+    "slot": "PM",
+    "session_type": "HOME",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "a6802e47-b4cb-5b90-8f89-888de344f2e9",
+    "student_id": "e7c1b182-cc12-5888-adf8-0487e015680b",
+    "original_therapist_id": "24d5649a-e4b2-5d09-8887-9a9378378c58",
+    "assigned_therapist_id": "24d5649a-e4b2-5d09-8887-9a9378378c58",
+    "date": "2026-10-07",
+    "slot": "PM",
+    "session_type": "HOME",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "c5afcc19-854d-58c4-b297-9ac174f75801",
+    "student_id": "fc605bf2-3a88-5c44-bb06-7f170ccc23a8",
+    "original_therapist_id": "9d192368-223f-5473-b054-800ffb1b846d",
+    "assigned_therapist_id": "9d192368-223f-5473-b054-800ffb1b846d",
+    "date": "2026-10-08",
+    "slot": "PM",
+    "session_type": "HOME",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "60189b65-ec14-58de-aae3-06215fdcfa75",
+    "student_id": "9172a17e-0055-5c36-b729-311ae4c7d4b5",
+    "original_therapist_id": "287733d4-8a18-51c3-982d-0d9fc70f7a9e",
+    "assigned_therapist_id": "287733d4-8a18-51c3-982d-0d9fc70f7a9e",
+    "date": "2026-10-09",
+    "slot": "AM",
+    "session_type": "SCHOOL",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "bbf551e5-1a3a-51f6-8774-efc17ff90c26",
+    "student_id": "9172a17e-0055-5c36-b729-311ae4c7d4b5",
+    "original_therapist_id": "287733d4-8a18-51c3-982d-0d9fc70f7a9e",
+    "assigned_therapist_id": "287733d4-8a18-51c3-982d-0d9fc70f7a9e",
+    "date": "2026-10-10",
+    "slot": "PM",
+    "session_type": "HOME",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "ffe47bd7-ee5e-5972-8288-90abc8cd0a60",
+    "student_id": "6aef473f-131b-546d-9b7c-7fc1ed6b4e01",
+    "original_therapist_id": "3c3283c7-924d-54ac-9122-8dcf18e07184",
+    "assigned_therapist_id": "3c3283c7-924d-54ac-9122-8dcf18e07184",
+    "date": "2026-10-11",
+    "slot": "AM",
+    "session_type": "SCHOOL",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "bec6ab92-d835-52ef-a030-8035ef5b527d",
+    "student_id": "67ba9aee-c985-5452-b576-daa252f3578b",
+    "original_therapist_id": "3b273b1d-96f2-5fdc-b98d-1a66f01882b5",
+    "assigned_therapist_id": "3b273b1d-96f2-5fdc-b98d-1a66f01882b5",
+    "date": "2026-10-12",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "73f5a93c-a01c-5455-b855-2073f7832c32",
+    "student_id": "dca9793b-61d9-5694-b9a4-04a26c4c7aa6",
+    "original_therapist_id": "3b273b1d-96f2-5fdc-b98d-1a66f01882b5",
+    "assigned_therapist_id": "3b273b1d-96f2-5fdc-b98d-1a66f01882b5",
+    "date": "2026-10-13",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "659fc86f-52a1-50fc-9026-5dd2dd8db4c3",
+    "student_id": "f03bbee4-8063-5656-82d9-8b3978b40d51",
+    "original_therapist_id": "0413955b-7ceb-5146-bea7-938b583a1138",
+    "assigned_therapist_id": "0413955b-7ceb-5146-bea7-938b583a1138",
+    "date": "2026-10-14",
+    "slot": "AM",
+    "session_type": "SCHOOL",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "1a2d254b-ac58-5304-8986-6711a3f2fbae",
+    "student_id": "f03bbee4-8063-5656-82d9-8b3978b40d51",
+    "original_therapist_id": "0413955b-7ceb-5146-bea7-938b583a1138",
+    "assigned_therapist_id": "0413955b-7ceb-5146-bea7-938b583a1138",
+    "date": "2026-10-15",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "280f8aa3-9f4e-56b2-8216-dd571f272358",
+    "student_id": "383ad0cd-9ff5-5238-8518-730f0b695229",
+    "original_therapist_id": "938bcfaf-68cf-5329-869c-fa7b60f7d30e",
+    "assigned_therapist_id": "938bcfaf-68cf-5329-869c-fa7b60f7d30e",
+    "date": "2026-10-16",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "167e144a-ffa6-5471-a009-faa72700840a",
+    "student_id": "438c77ac-7c97-58a9-b61e-7bef0bbd989a",
+    "original_therapist_id": "938bcfaf-68cf-5329-869c-fa7b60f7d30e",
+    "assigned_therapist_id": "938bcfaf-68cf-5329-869c-fa7b60f7d30e",
+    "date": "2026-10-17",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "4733b339-47b1-5ac5-bed4-199d22ea3ae2",
+    "student_id": "8bcea537-e4f0-5606-b2a3-c3c554141202",
+    "original_therapist_id": "72a6252a-f7ad-58df-b923-7f2115a49b20",
+    "assigned_therapist_id": "72a6252a-f7ad-58df-b923-7f2115a49b20",
+    "date": "2026-10-18",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "5c1da40f-ec94-5045-9703-564e0f5ae1c3",
+    "student_id": "edfc1fc0-7380-50c2-9343-6c7e7767e070",
+    "original_therapist_id": "dc08de77-9bb1-5fc4-b677-b7721cd317d0",
+    "assigned_therapist_id": "dc08de77-9bb1-5fc4-b677-b7721cd317d0",
+    "date": "2026-10-19",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "f1949ed2-0655-554a-9380-c4ef3c074e04",
+    "student_id": "fc605bf2-3a88-5c44-bb06-7f170ccc23a8",
+    "original_therapist_id": "9bb3f4dd-8a7a-5873-9888-67b59e814a04",
+    "assigned_therapist_id": "9bb3f4dd-8a7a-5873-9888-67b59e814a04",
+    "date": "2026-10-20",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "91cb2743-b65d-5d38-a35b-8a72b2e14b04",
+    "student_id": "9b6e4f24-7973-5f00-a1ec-d94e5d5a6655",
+    "original_therapist_id": "9bb3f4dd-8a7a-5873-9888-67b59e814a04",
+    "assigned_therapist_id": "9bb3f4dd-8a7a-5873-9888-67b59e814a04",
+    "date": "2026-10-21",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "8fbeda53-ab1f-576c-baa4-16a4b32d9b28",
+    "student_id": "624e203d-f72c-5da2-9288-40ae11cb67b5",
+    "original_therapist_id": "b802d990-cb30-5a05-a2f8-7b1c77310352",
+    "assigned_therapist_id": "67d91e73-44d9-5fca-ba5f-1f65ce7d3343",
+    "date": "2026-10-22",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "ad396361-e4ea-51db-af3e-4acce94f9183",
+    "student_id": "6aef473f-131b-546d-9b7c-7fc1ed6b4e01",
+    "original_therapist_id": "b802d990-cb30-5a05-a2f8-7b1c77310352",
+    "assigned_therapist_id": "d15882d6-17b0-5a05-9782-83999c1b3d76",
+    "date": "2026-10-23",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "be6c50c3-0517-5822-8c05-dacc38ab442f",
+    "student_id": "598b30f7-1007-5dc4-a5ea-400a82673adc",
+    "original_therapist_id": "2877b378-3897-586d-96a3-e647eebf3a7a",
+    "assigned_therapist_id": "2877b378-3897-586d-96a3-e647eebf3a7a",
+    "date": "2026-10-24",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "158b8567-ae5c-5216-881d-e5adce9d3f16",
+    "student_id": "b5ab6722-1e7f-5b70-b0b8-40e44011fd4f",
+    "original_therapist_id": "2877b378-3897-586d-96a3-e647eebf3a7a",
+    "assigned_therapist_id": "2877b378-3897-586d-96a3-e647eebf3a7a",
+    "date": "2026-10-25",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "88bddc89-1e7c-58c6-80cb-b219472741d0",
+    "student_id": "9b6e4f24-7973-5f00-a1ec-d94e5d5a6655",
+    "original_therapist_id": "a7fe6138-4e40-5116-bb72-1e50d13d8ee3",
+    "assigned_therapist_id": "a7fe6138-4e40-5116-bb72-1e50d13d8ee3",
+    "date": "2026-10-26",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "30d86038-5cd5-5e67-861d-6e9aee414729",
+    "student_id": "b3f97b01-86f9-52cc-b8cc-d04598bb09b7",
+    "original_therapist_id": "a7fe6138-4e40-5116-bb72-1e50d13d8ee3",
+    "assigned_therapist_id": "a7fe6138-4e40-5116-bb72-1e50d13d8ee3",
+    "date": "2026-10-27",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "d6245926-605c-54c0-819a-47bdc976868d",
+    "student_id": "8a260e0f-22b5-5725-8cba-a4011028518f",
+    "original_therapist_id": "82ef65db-b99c-5469-b48d-68d3f5d9ba5c",
+    "assigned_therapist_id": "82ef65db-b99c-5469-b48d-68d3f5d9ba5c",
+    "date": "2026-10-28",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "d0a556f4-9da0-5174-b955-4023de5d19a9",
+    "student_id": "145a257a-ee41-52fa-9a5a-0d879ab12c14",
+    "original_therapist_id": "82ef65db-b99c-5469-b48d-68d3f5d9ba5c",
+    "assigned_therapist_id": "82ef65db-b99c-5469-b48d-68d3f5d9ba5c",
+    "date": "2026-10-29",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "ebae758c-e91d-5ba4-9d91-9a9106905761",
+    "student_id": "7688b20e-d473-50b3-89ea-d2d3595e9e23",
+    "original_therapist_id": "d37d2930-f001-543f-a051-c783b0dcf18d",
+    "assigned_therapist_id": "d37d2930-f001-543f-a051-c783b0dcf18d",
+    "date": "2026-10-30",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "9d3a1483-a4cc-5793-afe9-29c5aa551482",
+    "student_id": "8163fe6a-51c0-566a-913e-364edcaad916",
+    "original_therapist_id": "d37d2930-f001-543f-a051-c783b0dcf18d",
+    "assigned_therapist_id": "d37d2930-f001-543f-a051-c783b0dcf18d",
+    "date": "2026-10-31",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "1391727a-8586-5e03-a62c-36dc01820e2c",
+    "student_id": "b5ab6722-1e7f-5b70-b0b8-40e44011fd4f",
+    "original_therapist_id": "cc53b4f5-30fe-5155-8898-df37ab7c27a7",
+    "assigned_therapist_id": "cc53b4f5-30fe-5155-8898-df37ab7c27a7",
+    "date": "2026-10-16",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "f96b1cd3-8b8f-57d4-8864-c5855a246c34",
+    "student_id": "bd89f957-116d-512e-95fb-9c37d3368f1b",
+    "original_therapist_id": "cc53b4f5-30fe-5155-8898-df37ab7c27a7",
+    "assigned_therapist_id": "cc53b4f5-30fe-5155-8898-df37ab7c27a7",
+    "date": "2026-10-17",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "8199c3ee-c5da-50ea-9d0c-ac632faeaded",
+    "student_id": "6c664f2d-e2b9-5837-ac34-a3ccd1279826",
+    "original_therapist_id": "1c1b3dd3-5902-543d-83d4-e017d4e7cd44",
+    "assigned_therapist_id": "1c1b3dd3-5902-543d-83d4-e017d4e7cd44",
+    "date": "2026-10-18",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "1628a8b9-cb0e-5864-8870-f554aa4dcbd5",
+    "student_id": "383ad0cd-9ff5-5238-8518-730f0b695229",
+    "original_therapist_id": "1c1b3dd3-5902-543d-83d4-e017d4e7cd44",
+    "assigned_therapist_id": "1c1b3dd3-5902-543d-83d4-e017d4e7cd44",
+    "date": "2026-10-19",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "3397fbf3-43a3-5000-b4fd-ee3c6a22bb01",
+    "student_id": "a59b9ea4-14cb-5ad4-874a-807ba055aa5c",
+    "original_therapist_id": "d15882d6-17b0-5a05-9782-83999c1b3d76",
+    "assigned_therapist_id": "d15882d6-17b0-5a05-9782-83999c1b3d76",
+    "date": "2026-10-20",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "b750cb65-1813-531a-85da-74f40ca42ad2",
+    "student_id": "9defd8ac-f8bc-5e9c-a768-dcc1619ccbf5",
+    "original_therapist_id": "a71d0120-15b7-5a7a-ae7d-df803a80a783",
+    "assigned_therapist_id": "a71d0120-15b7-5a7a-ae7d-df803a80a783",
+    "date": "2026-10-21",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "3c9ef83f-ce14-5b0c-a8b7-ae3835c753af",
+    "student_id": "a59b9ea4-14cb-5ad4-874a-807ba055aa5c",
+    "original_therapist_id": "ac59651a-40aa-55dd-ae70-cb1df3f5e32d",
+    "assigned_therapist_id": "ac59651a-40aa-55dd-ae70-cb1df3f5e32d",
+    "date": "2026-10-22",
+    "slot": "PM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "8db8bb5a-8827-5d33-906f-3b665ccf645f",
+    "student_id": "145a257a-ee41-52fa-9a5a-0d879ab12c14",
+    "original_therapist_id": "40274bf7-ca3d-5d9c-9f04-fbf0ee5ce60a",
+    "assigned_therapist_id": "40274bf7-ca3d-5d9c-9f04-fbf0ee5ce60a",
+    "date": "2026-10-23",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "6aca15ba-8bb2-5adc-89c0-342652699ebb",
+    "student_id": "edfc1fc0-7380-50c2-9343-6c7e7767e070",
+    "original_therapist_id": "a71d0120-15b7-5a7a-ae7d-df803a80a783",
+    "assigned_therapist_id": "a71d0120-15b7-5a7a-ae7d-df803a80a783",
+    "date": "2026-10-24",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "c30545b3-1c54-5f2f-9c2c-43e72918af10",
+    "student_id": "b5ab6722-1e7f-5b70-b0b8-40e44011fd4f",
+    "original_therapist_id": "a7fe6138-4e40-5116-bb72-1e50d13d8ee3",
+    "assigned_therapist_id": "a7fe6138-4e40-5116-bb72-1e50d13d8ee3",
+    "date": "2026-10-25",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "210b4948-871d-5faa-90d0-5aba4a2c95d0",
+    "student_id": "6aef473f-131b-546d-9b7c-7fc1ed6b4e01",
+    "original_therapist_id": "a9ac15e4-4383-5aaa-8ebf-8d7a9a467b82",
+    "assigned_therapist_id": "a9ac15e4-4383-5aaa-8ebf-8d7a9a467b82",
+    "date": "2026-10-26",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "5a56f9a5-2fe0-5425-9124-66bfd31c1525",
+    "student_id": "ea1b4986-d986-5a81-a4b4-5e9e6bbbd6f4",
+    "original_therapist_id": "67d91e73-44d9-5fca-ba5f-1f65ce7d3343",
+    "assigned_therapist_id": "67d91e73-44d9-5fca-ba5f-1f65ce7d3343",
+    "date": "2026-10-27",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "0a4e8150-3165-5a69-a3a1-2ea739813318",
+    "student_id": "dfb3ff64-e109-5de1-bab0-13ee6f3d96da",
+    "original_therapist_id": "287733d4-8a18-51c3-982d-0d9fc70f7a9e",
+    "assigned_therapist_id": "287733d4-8a18-51c3-982d-0d9fc70f7a9e",
+    "date": "2026-10-28",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "028160bd-fd5a-5aa6-b701-3430166e7dc9",
+    "student_id": "624e203d-f72c-5da2-9288-40ae11cb67b5",
+    "original_therapist_id": "40274bf7-ca3d-5d9c-9f04-fbf0ee5ce60a",
+    "assigned_therapist_id": "40274bf7-ca3d-5d9c-9f04-fbf0ee5ce60a",
+    "date": "2026-10-29",
+    "slot": "AM",
+    "session_type": "CLINIC",
+    "status": "SCHEDULED"
+  }
+]
